@@ -17,11 +17,22 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔧 **PACT_Robot**: Pneumatic Actuated Climbing and Traversing robot for multi-terrain navigation. Includes CAD, kinematic analysis, and BoM.
-- 🛰️ **ISRO Hexapod**: Mirror Repositioning System using a 6-DOF parallel manipulator. Designed actuator system and control loop.
-- 🤖 **Flapping Wing Mechanism**: Bio-inspired aerial robot prototype simulating bird-like wing motion.
-- 🤖 **Robocon India 2023**: Developed multi-DOF robotic arms and control strategies for competition.
-- 🌊 **Autonomous Underwater Vehicle (AUV)**: Control algorithm and mechanical contributions for Nirma’s AUV team.
+
+#### 🛰️ ISRO Internship – SAC (2024–2025)
+- **Hexapod-Based Mirror Repositioning System**  
+  Developed a 6-DOF parallel manipulator with dual-resolution actuators for precise mirror alignment in space telescopes.  
+
+---
+
+#### 🤖 Team Nirma Robocon (2021–2024)
+- **Mechanical Team Leader – ABU Robocon**  
+  Led mechanical design and system integration for autonomous competition robots.  
+
+---
+
+#### 🔍 Robofest 4.0 Autonomous Rover (2024–2025)
+- **Rover Project (Government Funded)**  
+  Built a fully autonomous rover using GPS, LIDAR, and Arduino-based control.    
 
 ---
 
@@ -35,4 +46,4 @@
 
 ### 📫 Let's Connect!
 - LinkedIn: [devammathia](https://www.linkedin.com/in/devammathia)
-- Email: devam.mathia@gmail.com  
+- Email: devammathia1209@gmail.com  
